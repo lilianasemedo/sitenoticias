@@ -1,0 +1,66 @@
+	
+
+h1{ 
+
+	color: black; 
+	margin: 100px 50px 150px 0px;
+	
+	
+	
+}
+
+body {
+	background-image: url("https://images.photowall.com/products/50508.jpg?h=699&q=85");
+	background-repeat: no-repeat, repeat;
+	background-size: cover; 
+  
+	font-family: "Times New Roman", Georgia, Serif;
+
+}
+p {
+	text-align:justify;
+	text-indent: 1.5em;
+}
+
+img{
+	vertical-align:middle;
+	}
+  
+.w3-xXlarge{
+	font-size:50px;
+	font-family: inherit;
+	font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.3125;
+	color: inherit; 
+}
+
+.w3-center{
+	text-align:center;
+	
+}
+
+
+	
+.footer{
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+input[type=submit]{
+    display: block;
+    background-color: green;
+    height: 35px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+}
+
